@@ -1,6 +1,6 @@
 {
   "name": "ng-autofocus-directive",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -13,6 +13,17 @@
     "build": "copy package.json \"src\\app\" && ngm build -p src/app"
   },
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BennyFranco/ng-autofocus-directive.git"
+  },
+  "contributors": [
+    {
+      "name": "Benny Franco",
+      "email": "bennyfranco@icloud.com",
+      "url": "https://github.com/BennyFranco/"
+    }
+  ],
   "dependencies": {
     "@angular/common": "^2.3.1",
     "@angular/compiler": "^2.3.1",
