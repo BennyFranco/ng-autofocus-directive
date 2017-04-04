@@ -18,7 +18,7 @@ You can get it on npm:
 You'll need to add `AutofocusModule` to your application module.
 
 ```typescript
-import { AutofocusModule } from 'ng-autofocus-directive/autofocus/autofocus.module';
+import { AutofocusModule } from 'ng-autofocus-directive';
 
     @NgModule({
       imports: [
