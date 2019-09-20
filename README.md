@@ -1,5 +1,11 @@
 # ng-autofocus-directive
 
+## Important
+
+```
+This library is deprecated and will not recive more updates.
+```
+
 This directive solves the issue of autofocus in angular 2.x, inclusive when you use a dinamically input created before the DOM generation, for example an input created using *ngIf or a hidden input.
 
 [![Build Status][travis-badge]][travis-badge-url]
